@@ -1,7 +1,7 @@
 # MongoDB 
 
 
-# how to create MongoDB Image ?
+# how to use MongoDB Image ?
 
 + ## 1.
 ```
